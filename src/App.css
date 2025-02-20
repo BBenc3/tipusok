@@ -37,7 +37,6 @@
   }
 }
 
-/* General Styles */
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f8f9fa;
@@ -49,7 +48,6 @@ body {
   margin: auto;
 }
 
-/* Navbar Styles */
 .navbar {
   background-color: #007bff;
 }
@@ -66,7 +64,6 @@ body {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
 
-/* List Styles */
 .list-group-item {
   transition: background-color 0.3s, transform 0.3s;
 }
@@ -77,7 +74,6 @@ body {
   transform: scale(1.02);
 }
 
-/* Form Styles */
 form {
   background-color: #fff;
   padding: 20px;
@@ -101,13 +97,11 @@ form .btn-primary:hover {
   transform: scale(1.02);
 }
 
-/* Header Styles */
 h4 {
   color: #007bff;
   margin-bottom: 20px;
 }
 
-/* Image Styles */
 .img-fluid {
   max-width: 100%;
   height: auto;
